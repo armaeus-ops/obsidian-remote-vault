@@ -1,0 +1,1 @@
+Urabstimmung: Alle gewerkschaftlich Organisierten Mitglieder werden gefragt

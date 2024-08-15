@@ -1,10 +1,10 @@
 https://roadmap.sh/linux
 
 1. Navigation Basics
-	1. Basic Commands
-	2. Moving Files/ Directories
-	3. Creating & Deleting Files/ Dirs
-	4. Directory Hierarchy Overview
+	1. Basic Commands [[1.1. Basic Commands]]
+	2. Moving Files/ Directories [[1.2. Moving Files]]
+	3. Creating & Deleting Files/ Dirs [[1.3. Creating Files]]
+	4. Directory Hierarchy Overview [[1.4. Directory Hierarchy Overview]]
 2. Editing Files
 	1. Vim
 	2. Nano

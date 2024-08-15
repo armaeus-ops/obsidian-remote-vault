@@ -35,27 +35,27 @@ https://roadmap.sh/linux
 	12. uniq
 	13. grep
 	14. awk
-6. Server Review 
-	1. Uptime and Load
-	2. Authentication Logs
-	3. Services Running
-	4. Available Memory / Disk
-7. Process Management
-	1. Background / Forefround Processes
-	2. Listing / Finding Processes
-	3. Process Signals
-	4. Process Priorities
-	5. Process Forking
-	6. Killing Processes
-8. User Management
-	1. Create / Delete / Update
-	2. Users and Groups
-	3. Managing Permissions
-9. Service Management (systemd)
-	1. Checking Service Status
-	2. Start / Stop Services
-	3. Checking Service Logs
-	4. Creating New Services
+6. Server Review  [[6. Server Review]]
+	1. Uptime and Load [[6.1. Uptime and Load]]
+	2. Authentication Logs [[6.2. Authentication Logs]]
+	3. Services Running [[6.3. Services Running]]
+	4. Available Memory / Disk [[6.4. Available Memory & Disk]]
+7. Process Management [[7. Process Management]]
+	1. Background / Forefround Processes [[7.1. Background & Foreground Processes]]
+	2. Listing / Finding Processes [[7.2. Listing and Finding Processes]]
+	3. Process Signals [[7.3. Process Signals]]
+	4. Process Priorities [[7.4. Process Priorities]]
+	5. Process Forking [[7.5. Process Forking]]
+	6. Killing Processes [[7.6. Killing Processes]]
+8. User Management [[8. User Management]]
+	1. Create / Delete / Update [[8.1. Create, Delete, Update]]
+	2. Users and Groups [[8.2. Users and Groups]]
+	3. Managing Permissions [[8.3. Managing Permissions]]
+9. Service Management (systemd) [[9. Service Management (systemd)]]
+	1. Checking Service Status [[9.1. Checking Service Status]]
+	2. Start / Stop Services [[9.2. Start & Stop Services]]
+	3. Checking Service Logs [[9.3. Checking Service Logs]]
+	4. Creating New Services [[9.4. Creating New Services]]
 10. Package Management
 	1. Install / Remove / Upgrade Packages
 	2. Listing Installed Packages

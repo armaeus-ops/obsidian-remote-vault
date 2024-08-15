@@ -6,21 +6,21 @@ https://roadmap.sh/linux
 	3. Creating & Deleting Files/ Dirs [[1.3. Creating Files]]
 	4. Directory Hierarchy Overview [[1.4. Directory Hierarchy Overview]]
 2. Editing Files
-	1. Vim
-	2. Nano
-	3. Emacs
+	1. nano [[2.1. nano]]
+	2.  Vim [[2.2. vim]]
+	
 3. Shell and other Basics
-	1. Command Path
+	1. Command Path [[3.1. Command Path]]
 	2. Environment Variables
 	3. Command Help	
 	4. Redirects
 	5. Super User
-4. Working with FIles
-	1. File Permissions
-	2. Archiving and COmpressing
-	3. Copying and Renaming
-	4. Soft Links/ Hard Links
-5. Text Processing
+4. Working with Files [[4. Working with Files]]
+	1. File Permissions [[4.1. File Permissions]]
+	2. Archiving and Compressing [[4.2. Archiving and Compressing]]
+	3. Copying and Renaming [[4.3. Copying and Renaming]]
+	4. Soft Links/ Hard Links [[4.4. Soft Links & Hard Links]]
+5. Text Processing [[5. Text Processing]]
 	1. stdout / stdin / stderr
 	2. cut / paste
 	3. sort
@@ -35,7 +35,7 @@ https://roadmap.sh/linux
 	12. uniq
 	13. grep
 	14. awk
-6. Server Review
+6. Server Review 
 	1. Uptime and Load
 	2. Authentication Logs
 	3. Services Running
@@ -53,11 +53,11 @@ https://roadmap.sh/linux
 	3. Managing Permissions
 9. Service Management (systemd)
 	1. Checking Service Status
-	2. Start /Stop Services
+	2. Start / Stop Services
 	3. Checking Service Logs
 	4. Creating New Services
 10. Package Management
-	1. install / Remove / Upgrade Packages
+	1. Install / Remove / Upgrade Packages
 	2. Listing Installed Packages
 	3. Finding and Installing Packages
 	4. Package Repositories
@@ -99,6 +99,5 @@ https://roadmap.sh/linux
 	2. cgroups
 	3. Container Runtime
 	4. Docker
-18. 
 
 ![[linux.pdf]]

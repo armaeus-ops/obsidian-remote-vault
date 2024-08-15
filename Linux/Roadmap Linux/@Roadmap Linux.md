@@ -1,6 +1,6 @@
 https://roadmap.sh/linux
 
-1. Navigation Basics
+1. Navigation Basics 
 	1. Basic Commands [[1.1. Basic Commands]]
 	2. Moving Files/ Directories [[1.2. Moving Files]]
 	3. Creating & Deleting Files/ Dirs [[1.3. Creating Files]]
@@ -10,9 +10,9 @@ https://roadmap.sh/linux
 	2. Nano
 	3. Emacs
 3. Shell and other Basics
-	1. Command PAth
+	1. Command Path
 	2. Environment Variables
-	3. Command Help+
+	3. Command Help	
 	4. Redirects
 	5. Super User
 4. Working with FIles

@@ -56,23 +56,23 @@ https://roadmap.sh/linux
 	2. Start / Stop Services [[9.2. Start & Stop Services]]
 	3. Checking Service Logs [[9.3. Checking Service Logs]]
 	4. Creating New Services [[9.4. Creating New Services]]
-10. Package Management
-	1. Install / Remove / Upgrade Packages
-	2. Listing Installed Packages
-	3. Finding and Installing Packages
-	4. Package Repositories
-	5. Snap
-11. Disks and Filesystems
-	1. Inodes
-	2. Filesystems
-	3. Mounts
-	4. Adding Disks
-	5. Swap
-	6. LVM
-12. Booting Linux
-	1. Logs
+10. Package Management[[10. Package Management]]
+	1. Install / Remove / Upgrade Packages[[10.1. Install & Update & Remove Packages]]
+	2. Listing Installed Packages[[10.2. Listing Installed Packages]]
+	3. Finding and Installing Packages[[10.3. Finding and Installing Packages]]
+	4. Package Repositories [[10.4. Package Repositories]]
+	5. Snap [[10.5. Snap]]
+11. Disks and Filesystems [[11. Disks and Filesystems]]
+	1. Inodes [[11.1. Inodes]]
+	2. Filesystems [[11.2. Filesystems]]
+	3. Mounts [[11.3. Mounts]]
+	4. Adding Disks [[11.4. Adding Disks and Partitioning]]
+	5. Swap [[11.5. Swap]]
+	6. LVM [[11.6. LVM]]
+12. Booting Linux  [[12. Booting Linux]]
+	1. Logs 
 	2. Boot Loaders
-13. Networking
+13. Networking 
 	1. TCP/IP Stack
 	2. Subnetting
 	3. Ethernet &arp/rarp

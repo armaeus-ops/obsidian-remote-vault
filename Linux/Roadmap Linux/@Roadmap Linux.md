@@ -11,10 +11,10 @@ https://roadmap.sh/linux
 	
 3. Shell and other Basics
 	1. Command Path [[3.1. Command Path]]
-	2. Environment Variables
-	3. Command Help	
-	4. Redirects
-	5. Super User
+	2. Environment Variables [[3.2.Environment Variables]]
+	3. Command Help	[[3.3. Command Help]]
+	4. Redirects [[3.4. Redirects]]
+	5. Super User [[3.5. Super User]]
 4. Working with Files [[4. Working with Files]]
 	1. File Permissions [[4.1. File Permissions]]
 	2. Archiving and Compressing [[4.2. Archiving and Compressing]]
@@ -72,32 +72,32 @@ https://roadmap.sh/linux
 12. Booting Linux  [[12. Booting Linux]]
 	1. Logs 
 	2. Boot Loaders
-13. Networking 
-	1. TCP/IP Stack
-	2. Subnetting
-	3. Ethernet &arp/rarp
-	4. DHCP
-	5. IP Routing
-	6. DNS Resolution
-	7. Netfilter
-	8. SSH
-	9. File Transfer
-14. Backup Tools
+13. Networking  [[13. Network]]
+	1. TCP/IP Stack [[13.1. TCP-IP Stack]]
+	2. Subnetting [[13.2 Subnetting]]
+	3. Ethernet &arp/rarp [[13.3. Ethernet & arp, rarp]]
+	4. DHCP [[13.4 DHCP]]
+	5. IP Routing [[13.5 IP Routing]]
+	6. DNS Resolution [[13.6 DNS Resolution]]
+	7. Netfilter [[13.7 Netfilter]]
+	8. SSH [[13.8 SSH]]
+	9. File Transfer [[13.9 File Transfer]]
+14. Backup Tools [[14. Backup Tools]]
 15. Shell Programming[[105.1 Shells und Shell-Skripte]]
-	1. Debugging
-	2. Conditionals
-	3. Loops
-	4. Literals
-	5. Variables
-16. Troubleshooting
-	1. ICMP / ping
-	2. traceroute
-	3. netstat
-	4. Packet Analysis
-17. Containerization
-	1. ulimits
-	2. cgroups
-	3. Container Runtime
-	4. Docker
+	1. Debugging [[15.1 Debugging]]
+	2. Conditionals [[15.2 Conditionals]]
+	3. Loops [[15.3 Loops]]
+	4. Literals [[15.4 Literals]]
+	5. Variables [[15.5 Variables]]
+16. Troubleshooting [[16. Troubleshooting]]
+	1. ICMP / ping [[16.1 ICMP & ping]]
+	2. traceroute [[16.2 traceroute]]
+	3. netstat [[16.3 netstat]]
+	4. Packet Analysis [[16.4 Packet Analysis]]
+17. Containerization [[17. Containerization]]
+	1. ulimits [[17.1 ulimits]]
+	2. cgroups [[17.2 cgroups]]
+	3. Container Runtime [[17.3 Container Runtime]]
+	4. Docker [[17.4 Docker]]
 
 ![[linux.pdf]]

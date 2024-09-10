@@ -1,5 +1,3 @@
-Certainly! In addition to the basic commands you mentioned, here are a few more essential Linux commands that are useful for navigation and file management:
-
 ### 1. **Home Directory Shortcut**
    - **`cd ~`**  
      This command takes you directly to your home directory.
@@ -137,4 +135,7 @@ Certainly! In addition to the basic commands you mentioned, here are a few more 
    - **`exit`**  
      Closes the terminal or ends the session.
 
-These commands provide a solid foundation for navigating and managing your Linux environment.
+
+## 15. Keyboardlayout
+`loadkeys <xx>`  - keyboard layout einmal ändern (de für Deutsch)
+`sudo localectl set-keymap <xx>` - keyboardlayout permanent ändern

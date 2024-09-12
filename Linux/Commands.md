@@ -1,36 +1,4 @@
-### 1. **Home Directory Shortcut**
-   - **`cd ~`**  
-     This command takes you directly to your home directory.
-
-   - **`cd ..`**  
-     Moves you up one directory level (to the parent directory).
-
-   - **`cd -`**  
-     Switches you back to the previous directory you were in.
-
-### 2. **List Directory Contents in Detail**
-   - **`ls -l`**  
-     Lists files and directories in a long format, showing details like permissions, number of links, owner, group, size, and modification date.
-
-   - **`ls -a`**  
-     Shows all files, including hidden files (those starting with a dot `.`).
-
-   - **`ls -lh`**  
-     Similar to `ls -l`, but with human-readable file sizes (e.g., KB, MB).
-
-   - **`ls -R`**  
-     Lists all files and directories recursively, including all subdirectories.
-
-### 3. **Create and Remove Directories**
-   - **`mkdir directory_name`**  
-     Creates a new directory.
-
-   - **`rmdir directory_name`**  
-     Removes an empty directory.
-
 ### 4. **File Manipulation**
-   - **`touch filename`**  
-     Creates an empty file or updates the timestamp of an existing file.
 
    - **`cp source destination`**  
      Copies files or directories.

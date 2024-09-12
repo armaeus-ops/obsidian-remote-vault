@@ -1,15 +1,15 @@
 https://roadmap.sh/linux
 
-1. Navigation Basics 
+1. Navigation Basics  [[1. Navigations Basics]]
 	1. Basic Commands [[1.1. Basic Commands]]
 	2. Moving Files/ Directories [[1.2. Moving Files]]
 	3. Creating & Deleting Files/ Dirs [[1.3. Creating Files]]
 	4. Directory Hierarchy Overview [[1.4. Directory Hierarchy Overview]]
-2. Editing Files
+2. Editing Files [[2. Editing Files]]
 	1. nano [[2.1. nano]]
 	2.  Vim [[2.2. vim]]
 	
-3. Shell and other Basics
+3. Shell and other Basics [[3. Shell and Other Basics]]
 	1. Command Path [[3.1. Command Path]]
 	2. Environment Variables [[3.2.Environment Variables]]
 	3. Command Help	[[3.3. Command Help]]
@@ -21,7 +21,7 @@ https://roadmap.sh/linux
 	3. Copying and Renaming [[4.3. Copying and Renaming]]
 	4. Soft Links/ Hard Links [[4.4. Soft Links & Hard Links]]
 5. Text Processing [[5. Text Processing]]
-	1. stdout / stdin / stderr
+	1. stdout / stdin / stderr 
 	2. cut / paste
 	3. sort
 	4. tr
@@ -70,8 +70,8 @@ https://roadmap.sh/linux
 	5. Swap [[11.5. Swap]]
 	6. LVM [[11.6. LVM]]
 12. Booting Linux  [[12. Booting Linux]]
-	1. Logs 
-	2. Boot Loaders
+	1. Logs  [[12.1 Logs]]
+	2. Boot Loaders [[12.2 Boot Loaders]]
 13. Networking  [[13. Network]]
 	1. TCP/IP Stack [[13.1. TCP-IP Stack]]
 	2. Subnetting [[13.2 Subnetting]]

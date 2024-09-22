@@ -1,3 +1,7 @@
+---
+tags:
+  - SK
+---
 Eine Kündigung ist dann sozial gerechtfertigt, wenn es Gründe gibt
 
 - -"- ,die in der Person des Arbeitnehmers liegen. z.B. mangelnde Eignung.

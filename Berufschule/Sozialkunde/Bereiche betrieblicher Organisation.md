@@ -1,3 +1,7 @@
+---
+tags:
+  - SK
+---
 #### Aufbauorganistation:
 - Gliederung des Bertriebes in funktionsfähige Einheiten
 - Übertragung von Aufaben, Kompetenzen und Verantwortung auf die Mitarbeiter

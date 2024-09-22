@@ -1,3 +1,7 @@
+---
+tags:
+  - SK
+---
 ### Die soziale Lage der deutschen Arbeitnehmer im 19. Jhd
 
 #### 1. Erste industrielle Revolution
@@ -32,7 +36,7 @@ Diese schlechten Bedingungen führten zu verschiedenen Forderungen der Arbeiter:
 5. **Bildung von Gewerkschaften**: Organisation von Arbeitnehmern, um gemeinsam für ihre Rechte und Interessen kämpfen zu können.
 
 Diese Forderungen wurden durch Streiks, Proteste und die Gründung von Arbeiterorganisationen vorangetrieben und legten den Grundstein für die Arbeiterbewegung und spätere soziale Reformen.
-#### 3. Wer kümmert sich um die sozialen Belange der Arbeitnehmer?
+#### 3. Wer kümmert sich um die sozialen Belange der Arbeitnehmer? 
 
 Um die sozialen Belange der Arbeitnehmer während der ersten Industriellen Revolution kümmerten sich verschiedene Akteure und Organisationen:
 

@@ -2,6 +2,14 @@
 tags:
   - LF8
 ---
+
+Objekt: ist ein abstrakter oder realer Gegenstand, welcher durch seinen Zustand (Eigenschaften) und durch sein Verhalten (Methoden) beschrieben wird
+
+
+
+
+---
+
 ##### Wofür eignet sich das Paradigma der Objektorientierten Programmierung?
 
 Die objektorientierte Programmierung (OOP) eignet sich für viele Anwendungsbereiche, insbesondere:

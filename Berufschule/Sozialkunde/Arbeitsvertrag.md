@@ -1,3 +1,7 @@
+---
+tags:
+  - SK
+---
 #### Arbeitnehmerpflichten
 - Arbeitspflicht - persönlich, pünktlich, am vereinbarten Ort Arbeit verrichten
 - Weisungsgebundenheit - Forderungen des AG, Weisungsberechtigten im Rahmen seiner beruflichen Tätigkeit nachkommen

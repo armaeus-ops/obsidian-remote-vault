@@ -1,3 +1,7 @@
+---
+tags:
+  - SK
+---
 Eine Gewerkschaft hat mehrere wesentliche Aufgaben, die darauf abzielen, die Interessen der Arbeitnehmer zu vertreten und zu schützen. Die Hauptaufgaben umfassen:
 
 1. **Tarifverhandlungen**:

@@ -1,3 +1,7 @@
+---
+tags:
+  - SK
+---
 Den Wesen nach ist der Tarifvertrag ein Kollektivarbeitsvertrag.
 
 DGB - Deutscher Gesellschaftsbund (Dachverband)

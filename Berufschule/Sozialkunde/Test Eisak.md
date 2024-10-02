@@ -70,9 +70,15 @@ Test
 Was will er am Freitag von uns?
 
 Aufgaben von Gewerkschaften
+[[Aufgaben der Gewerkschaft]]
 Tarifverhandlung PAP in Worte ausdrücken können
+
 Arbeitskampf - was und Folgen dessen
+
 Was fällt ein zu: ver.di - Tarifverträge, Tarifautonomie, Friedenspflicht, Warnstreik etc.
+
+
+
 
 
 Welche unterschiedlichen Rechte des BR gibt es, nenne je Beispiele

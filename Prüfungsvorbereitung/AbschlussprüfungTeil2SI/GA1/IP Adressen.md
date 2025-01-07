@@ -1,11 +1,3 @@
----
-title: "IP-Adressen"
-draft: false
-type: docs
-weight: 1
-description: "Alles was du für die Prüfungsvorbereitung zum Fachinformatiker über IP-Adressen wissen musst."
----
-
 IP-Adressen sind ein numerisches Identifikationssystem für Geräte in einem Netzwerk, das es ermöglicht, dass diese miteinander kommunizieren können, sei es im Internet oder in privaten Netzwerken.
 
 IP-Adressen gibt es in zwei Verschiedenen Versionen:
@@ -36,7 +28,3 @@ Außerdem können Sie durch die Entfernung führender Nullen in jedem Block und 
 ## Links
 [IPv4-Adressen - Elektronik Kompendium](https://www.elektronik-kompendium.de/sites/net/2011211.htm)  
 [IPv6-Adressen - Elektronik Kompendium](https://www.elektronik-kompendium.de/sites/net/1902111.htm)
-
-## Erklärvideos
-### Florian Dalwigk
-{{< youtube OjBJvXcuE-I >}}
